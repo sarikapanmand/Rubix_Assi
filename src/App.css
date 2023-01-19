@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0 auto;
+}
+
+::selection {
+  background: #ff4530;
+}
+
+::selection {
+  color: #fff;
+}
